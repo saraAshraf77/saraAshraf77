@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">-  👩🏻‍💻 About Me</h3>
+<h2 align="left">👩🏻‍💻 About Me</h3>
 <h2 align="left">I'm iOS Developer</h3>
 
 Here are some ideas to get you started:
